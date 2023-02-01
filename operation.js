@@ -1,3 +1,16 @@
+// var vs let vs const
+// var abc=5;
+// var abc=6;
+// let football=5;
+// let football=6;
+// const a=5;
+
+// var abc;
+// abc=3;
+// let abc;
+// abc=3;
+// const cd;
+
 var onionPrice = 20;
 var eggPrice = 10;
 

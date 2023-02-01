@@ -15,4 +15,13 @@ var num2 = 0.2;
 var sum = num1 + num2;
 sum = sum.toFixed(1);
 sum = parseFloat(sum);
-console.log(sum);
+// console.log(sum);
+
+//toFixed with parseInt
+var a = 333, b = 666;
+var c = a + b;
+console.log('total num:', c);
+c = c.toFixed(2); //toFixed() for fractional number
+console.log(c);
+c = parseInt(c);
+console.log(c);
