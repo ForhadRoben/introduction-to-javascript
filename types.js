@@ -5,7 +5,7 @@ var price = '100';
 var isHappy = true;
 // console.log(typeof isHappy);
 var romantic;
-// console.log(typeof romantic);
+// console.log(typeof romantic); ans : undefined
 /* var nam = "false";
 console.log(typeof nam); */
 

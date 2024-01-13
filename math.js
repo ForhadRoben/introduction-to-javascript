@@ -1,5 +1,5 @@
 /***
- * MATH Needed to Start Larning a Programming language 
+ * MATH Needed to Start Learning a Programming language 
  * 1. number ==> 55. 898, -32
  * 2. integer, odd, even: 2, 5, 
  * 3. float: decimal: 2.5, 13.67, 32.69

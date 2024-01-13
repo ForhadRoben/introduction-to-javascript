@@ -7,9 +7,9 @@ var result = total_tk - orange_and_apple;
 // ps2
 let math = 75.25, biology = 65, chemistry = 80, physics = 35.45, bangla = 99.50;
 let total = (math + biology + chemistry + physics + bangla) / 5;
-total = total.toFixed(2);
-var result1 = parseFloat(total);
-// console.log(result1);
+sum = total.toFixed(2);
+// var result1 = parseFloat(total);
+console.log(sum);
 
 // ps3
 var first_line = "I am going to be";
